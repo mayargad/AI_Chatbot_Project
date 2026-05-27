@@ -49,5 +49,9 @@ Bot: Goodbye! See you next time.
 ## Tools Used
 - Python
 
+## Screenshot
+![Output](screenshot.png)
+
+
 ## Developer
 Mayar Yasser | DecodeLabs Batch 2026
